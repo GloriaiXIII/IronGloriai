@@ -1,0 +1,15 @@
+--> Logistic regression - binary vs multi class
+	Binary classification: good or bad clients
+	Multiclass classification: A, B, C, D
+
+
+--> Logistic model for binary regression
+
+Some assumptions:
+- Does not requere a linear relationship between the dependent and independent variables 
+- Multicollinerarity not relevant
+- Dependant variablee must be categorical and can only have two possible values (yes/no, 1/0, t/f)
+- Larger dataset, at least 10 cases for each possible target value
+
+
+--> 
