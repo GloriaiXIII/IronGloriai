@@ -41,6 +41,10 @@ Language: Python
 - The correlation coefficient between mouse weight and average tumor volume is 0.84. This is a good result.
 - Capomulin and Ramicane are the most successsul treatments against tumors within the mice.
 
+### Some lab media previews
+<img src="https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week4/w4_labs/w4d3optional_lab_matplotlib_seaborn/matplotmice_media/linearregressionmodel.png" width="800px" height="auto">
+<img src="https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week4/w4_labs/w4d3optional_lab_matplotlib_seaborn/matplotmice_media/linechart.png" width="800px" height="auto">
+<img src="https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week4/w4_labs/w4d3optional_lab_matplotlib_seaborn/matplotmice_media/pandasbarplot.png" width="800px" height="auto">
 
 ***
 
@@ -96,6 +100,10 @@ Appendix:
 ### Conclusions
 - This lab is useful to store in an organized way different kinds of visualizations and style options.
 
+### Some lab media previews
+<img src="https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week4/w4_labs/w4d3optional_lab_matplotlib_seaborn/seaborn_media/snsviolinandswarmplot.png" width="800px" height="auto">
+<img src="https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week4/w4_labs/w4d3optional_lab_matplotlib_seaborn/seaborn_media/snsdesnityplot.png" width="800px" height="auto">
+<img src="https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week4/w4_labs/w4d3optional_lab_matplotlib_seaborn/seaborn_media/snstempsetting.png" width="800px" height="auto">
 
 
 ***
