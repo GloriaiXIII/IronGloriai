@@ -5,7 +5,7 @@ Week_4
 Two optional labs using Jupyternotebook in order to improve the knowledge on Matplotlib and Seaborn libraries. 
 
 ## Matplot | The Power of Plots
-![Mouse - Matplot lab about tumors in mice experimentation](/readme_media/mouse.png|URL "mouse")
+![Mouse - Matplot lab about tumors in mice experimentation](/readme_media/mouse.jpg|URL "mouse")
 
 Lab instructions [here](https://github.com/redeat17/Matplotlib-Challenge "Matplotlib  challenge")
 
@@ -45,7 +45,7 @@ Language: Python
 ***
 
 ## Seaborn visualization
-![Pokemon - illustrating Seaborn visualization lab](/readme_media/pokemon.png|URL "pokemonseaborn")
+![Pokemon - illustrating Seaborn visualization lab](/readme_media/pokemon.jpg|URL "pokemonseaborn")
 
 Tutorials consulted:
 [Pokemon Seaborn Tutorial](https://elitedatascience.com/python-seaborn-tutorial "Pokemon seaborn tutorial")
