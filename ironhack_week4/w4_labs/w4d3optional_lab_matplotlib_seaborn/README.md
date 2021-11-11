@@ -5,7 +5,7 @@ Week_4
 Two optional labs using Jupyternotebook in order to improve the knowledge on Matplotlib and Seaborn libraries. 
 
 ## Matplot | The Power of Plots
-![Mouse - Matplot lab about tumors in mice experimentation](/readme_media/mouse.jpg|URL "mouse")
+<img src="https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week4/w4_labs/w4d3optional_lab_matplotlib_seaborn/readme_media/mouse.jpg" width="800px" height="auto">
 
 Lab instructions [here](https://github.com/redeat17/Matplotlib-Challenge "Matplotlib  challenge")
 
@@ -45,7 +45,7 @@ Language: Python
 ***
 
 ## Seaborn visualization
-![Pokemon - illustrating Seaborn visualization lab](/readme_media/pokemon.jpg|URL "pokemonseaborn")
+<img src="https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week4/w4_labs/w4d3optional_lab_matplotlib_seaborn/readme_media/pokemon.jpg" width="800px" height="auto">
 
 Tutorials consulted:
 [Pokemon Seaborn Tutorial](https://elitedatascience.com/python-seaborn-tutorial "Pokemon seaborn tutorial")
@@ -95,6 +95,7 @@ Appendix:
 
 ### Conclusions
 - This lab is useful to store in an organized way different kinds of visualizations and style options.
+
 
 
 ***
