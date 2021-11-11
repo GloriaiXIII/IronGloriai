@@ -1,0 +1,20 @@
+W5_project_tips:
+
+We should try to achieve a greatest accuracy number testing at least twice. 
+- change the sample data (if it's imbalanced) [bank ex and iris ex]
+- clean more the data
+- data wrangling
+
+Kind of error
+- Reducible error - add some variables / generalisations into our model to iterate towards better accuracy
+e.g: titanic: assume "women's first", split by children/women, split by class, no of siblings/spouses,parents/children...
+-Irreducible error - survival based on chance 
+
+Consider if the model is overfit (notebook graph).
+
+CLASS IMBALANCE: it is a huge different amount of samples of class (if we choose the 2nd project we should check this)
+- downsampling (use less samples from the majority class. This would limit the level of effectiveness. ) = underfitting
+- uspampling (repeating samples from the minority class. It doesn't add new information) = overfitting
+
+
+

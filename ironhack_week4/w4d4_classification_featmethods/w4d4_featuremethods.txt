@@ -1,0 +1,9 @@
+w4d4_FEATURE METHODS 
+
+_FEATURE SELECTION: simiplicity is good 
+_FEATURE SCALING, bring features to the same range so that they have the same weight in the algorithm
+_FEATURE ENGINEERING / EXTRACTION: create new features, typically out of current ones
+
+LOW VARIANCE: when all obs have the same value for a feature, the feature is no adding much. Remove it!
+
+COLLINEARITY: if two features have a perfect correlation (r=1), they are just the same feature!
