@@ -1,7 +1,8 @@
 # READ ME!
 
 # OPTIONAL LAB |  Matplotlib mice db and Seaborn visualization
-Week_4 Two optional labs using Jupyternotebook in order to improve the knowledge on Matplotlib and Seaborn libraries. 
+Week_4   
+Two optional labs using Jupyternotebook in order to improve the knowledge on Matplotlib and Seaborn libraries. 
 
 ## Matplot | The Power of Plots
 ![Mouse - Matplot lab about tumors in mice experimentation](/readme_media/mouse.png|URL "mouse")
@@ -46,7 +47,9 @@ Language: Python
 ## Seaborn visualization
 ![Pokemon - illustrating Seaborn visualization lab](/readme_media/pokemon.png|URL "pokemonseaborn")
 
-[Markdown](http://es.wikipedia.org/wiki/Markdown "Wikipedia")
+Tutorials consulted:
+[Pokemon Seaborn Tutorial](https://elitedatascience.com/python-seaborn-tutorial "Pokemon seaborn tutorial")
+[Seaborn Style Tutorial](https://seaborn.pydata.org/tutorial/aesthetics.html "seaborn style tutorial")
 
 ### Project brief
 - Using the database pokemon, create a mini-gallery visualizing the content and relationships between attacks and defenses
