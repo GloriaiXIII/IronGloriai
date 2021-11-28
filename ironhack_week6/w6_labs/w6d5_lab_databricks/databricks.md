@@ -35,7 +35,7 @@ After doing this all together in the class, we have to do three tutorials:
 
 ## Pandas to Koalas ##
 The coding structure is very similar to the ones we already know 
-![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/pandastokoalasplot.png "Import Data") 
+<br> ![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/pandastokoalasplot.png "Import Data") 
 ![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/pandastokoalasplotbar.png "Import Data")
 
 
