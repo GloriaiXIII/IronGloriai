@@ -19,7 +19,6 @@ When the cluster is ready to use, a full green circle will appear next to the na
 <br> <p align="center"> ![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/cluster%20ready.png "Cluster Ready") </p>
 
 
-
 ## Import data ##
 Next step is to import data into databricks from the local machine through the UI. We can do it from the databricks homepage, selecting the "import and explore data" (center)
 <br> <p align="center"> ![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/import%20data.png "Import Data") </p>
@@ -34,7 +33,11 @@ After doing this all together in the class, we have to do three tutorials:
 - Market Basket
 
 ## Pandas to Koalas ##
-The coding structure is very similar to the ones we already know 
+For using small databases Pandas is fine, but when we need to analyse larger databases we need other tools such as  PySpark or Koalas. We will into Koalas because it's more easy to convert code from pandas to koalas than from pandas to pyspark. 
+<br> ![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/pandasdataframe.png "Koalas create DataFrame") 
+![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/pandasdescribe.png "Koalas describe")
+
+The coding structure is very similar to the ones we already know and the results are quite similar. 
 <br> ![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/pandastokoalasplot.png "Import Data") 
 ![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/pandastokoalasplotbar.png "Import Data")
 
@@ -42,9 +45,10 @@ The coding structure is very similar to the ones we already know
 ## Spark SQL ##
 Using spark SQL is quite similar to mySQL so it's not difficult for us to use it. 
 <br> <p align="center"> ![picture alt](https://github.com/GloriaiXIII/IronGloriai/blob/main/ironhack_week6/w6_labs/w6d5_lab_databricks/select%20query.png "Select Query") </p>
+You can switch from SQL to Python in the same notebook using the percentage symbol % 
 
 ## Market Basket ##
-This example was very fast to run in comparision to python taking in account the amount of data. 
+Taking in account the amount of data, this example was very fast to run in comparision to python/jupyer notebook.
 
 - - - -
 
